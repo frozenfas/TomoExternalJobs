@@ -1,2 +1,5 @@
 # TomoExternalJobs
-ExternalJobs for tomorrow pipeline in RELION. Not well tested and not ment for general use.
+ExternalJobs for tomo pipeline in RELION. It is not well-tested and is not meant for general use.
+
+
+
